@@ -1,0 +1,15 @@
+/home/leon/cs/visual studio/basicks_of_c#/Inputs/bin/Debug/net10.0/Inputs
+/home/leon/cs/visual studio/basicks_of_c#/Inputs/bin/Debug/net10.0/Inputs.deps.json
+/home/leon/cs/visual studio/basicks_of_c#/Inputs/bin/Debug/net10.0/Inputs.runtimeconfig.json
+/home/leon/cs/visual studio/basicks_of_c#/Inputs/bin/Debug/net10.0/Inputs.dll
+/home/leon/cs/visual studio/basicks_of_c#/Inputs/bin/Debug/net10.0/Inputs.pdb
+/home/leon/cs/visual studio/basicks_of_c#/Inputs/obj/Debug/net10.0/Inputs.GeneratedMSBuildEditorConfig.editorconfig
+/home/leon/cs/visual studio/basicks_of_c#/Inputs/obj/Debug/net10.0/Inputs.AssemblyInfoInputs.cache
+/home/leon/cs/visual studio/basicks_of_c#/Inputs/obj/Debug/net10.0/Inputs.AssemblyInfo.cs
+/home/leon/cs/visual studio/basicks_of_c#/Inputs/obj/Debug/net10.0/Inputs.csproj.CoreCompileInputs.cache
+/home/leon/cs/visual studio/basicks_of_c#/Inputs/obj/Debug/net10.0/Inputs.sourcelink.json
+/home/leon/cs/visual studio/basicks_of_c#/Inputs/obj/Debug/net10.0/Inputs.dll
+/home/leon/cs/visual studio/basicks_of_c#/Inputs/obj/Debug/net10.0/refint/Inputs.dll
+/home/leon/cs/visual studio/basicks_of_c#/Inputs/obj/Debug/net10.0/Inputs.pdb
+/home/leon/cs/visual studio/basicks_of_c#/Inputs/obj/Debug/net10.0/Inputs.genruntimeconfig.cache
+/home/leon/cs/visual studio/basicks_of_c#/Inputs/obj/Debug/net10.0/ref/Inputs.dll
