@@ -1,4 +1,4 @@
-﻿using System;
+﻿// Basiks of C# programming (Schleifen)
 class Program
 {
     static void Main(string[] args)
